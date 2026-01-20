@@ -1,4 +1,4 @@
-## Coordonnées
+## Mamadou Kane
 
 📍 Québec (Canada)  
 📧 kanemamadouu98@gmail.com  
