@@ -13,6 +13,15 @@ Statisticien / Analyste de données titulaire d’un **bac +5 en statistique**, 
 
 ---
 
+## Ce que je peux apporter
+
+- Transformation des données en indicateurs clairs et exploitables  
+- Analyses statistiques rigoureuses avec interprétation métier  
+- Conception de tableaux de bord pour le pilotage et la décision  
+- Collaboration efficace avec équipes métiers et techniques
+
+---
+
 ## Compétences clés
 - Analyse de données et statistiques appliquées  
 - Business Intelligence et indicateurs de performance  
